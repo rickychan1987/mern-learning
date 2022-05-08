@@ -6,8 +6,6 @@ import userRouter from "./routes/user.js";
 
 const app = express();
 
-//DdGjtrd7LBn8YP39
-
 app.use(morgan("dev"));
 app.use(express.json({ limit: "30mb", extended: true }));
 app.use(express.urlencoded({ limit: "30mb", extended: true }));

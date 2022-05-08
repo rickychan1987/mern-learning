@@ -22,6 +22,3 @@ function App() {
 }
 
 export default App;
-
-// npm i @reduxjs/toolkit react-router-dom mdb-react-ui-kit moment react-file-base64 react-google-login react-redux react-toastify @material-ui/core material-ui-chip-input axios
-// rafce Hot key to create function
